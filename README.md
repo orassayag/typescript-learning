@@ -1,7 +1,6 @@
 # TypeScript Learning
 
-Start to be built in October 2018. A tutorial workflow of 'Understanding TypeScript' by Maximilian Schwarzmüller.
-
+Built in October 2018. A tutorial workflow of 'Understanding TypeScript' by Maximilian Schwarzmüller.
 
 ## Getting Started
 
