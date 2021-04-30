@@ -1,6 +1,11 @@
 {
   "name": "typescript-learning",
   "version": "1.0.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/javascript-learning.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "lite-server": "^2.3.0"
