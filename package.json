@@ -2,20 +2,41 @@
   "name": "typescript-learning",
   "version": "1.0.0",
   "private": false,
+  "description": "A simple Node.js learning project demonstrating fundamental TypeScript and ES6 features including type annotations, arrow functions, destructuring, spread operators, and template literals through practical hands-on examples.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/orassayag/javascript-learning.git"
+    "url": "git://github.com/orassayag/typescript-learning.git"
   },
+  "keywords": [
+    "typescript",
+    "learning",
+    "tutorial",
+    "es6",
+    "arrow-functions",
+    "destructuring",
+    "spread-operator",
+    "template-literals",
+    "nodejs",
+    "javascript",
+    "type-annotations",
+    "beginner-friendly"
+  ],
   "dependencies": {},
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server"
   },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Or Assayag <orassayag@gmail.com>",
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "license": "MIT"
 }
